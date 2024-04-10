@@ -14,20 +14,18 @@ I found 5 datasets in Kaggle that were not meant to be joined, as they didn't ha
 There were many attributes in each category that I chose to remove from the viz as they made the analysis complicated and it wasn't adding any depth to the viz.
 
 
-
-
-
-
-
-
 **Future work:**
 
 **Find relevant datasets and analyse the trends:**
 1. How **easily they found jobs** - no. of months/ years to get a full-time / contract job
 2. **Time taken** to get **ROI** (Return on Investment) for the funds spent in education
-3. The effect of Relevant **Experience** - quantity/quality, **College type**, **Major type**, **Origin of Student** on:
-   **Job roles
-   Salaries
-   ROI
-   Job satisfaction**
+3. Effect of Relevant **Experience** - _quantity/quality_, **College type**, **Major type**, **Origin of Student** on:
+   
+   **Job roles**
+
+   **Salaries**
+
+   **ROI**
+
+   **Job satisfaction**
    
