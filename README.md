@@ -1,5 +1,8 @@
-# Alien-Students-Tableau-Dashboard
-Tableau Visualisation of Alien Students in the USA. This dashboard talks about the origin, academic level, major and source of fund for the Alien Students from 2007 - 2023
+# Alien-Students-USA-Tableau-Dashboard:
+**Link to viz:**
+https://public.tableau.com/app/profile/aashi6192/viz/AlienStudentsviz/Dasboard_Alien_Students_Origin#1
+
+This dashboard talks about the origin, academic level, major and source of fund for the Alien Students in the USA from 2007 - 2022
 
 **Introduction:** 
 
